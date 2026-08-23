@@ -204,7 +204,8 @@ avrdude -c <programmer> -p <mcu> -U flash:w:build-avr/etl_avr_smoke.hex:i
 ```
   
 
-## Installed consumers
+Installed consumers
+===================
 
 - [Migration guide](docs/migration-guide.md)
 - [Smoke tests](docs/installed-consumer-smoke-tests.md)
